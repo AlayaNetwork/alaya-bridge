@@ -1,6 +1,6 @@
 # Alaya Cross-Chain Assets Operation Guide 
 
-
+**[EN](#)** l [CN](https://github.com/AlayaNetwork/alaya-bridge/blob/master/docs/Alaya%20Bridge%20Manual-CN/Alaya%20Bridge%20Manual-CN.md)
 
 ## Brief Introduction
 

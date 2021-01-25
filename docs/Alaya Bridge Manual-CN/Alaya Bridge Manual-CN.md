@@ -1,5 +1,6 @@
 # Alaya资产跨链操作指南
 
+[EN](https://github.com/AlayaNetwork/alaya-bridge/blob/master/docs/Alaya%20Bridge%20Manual-EN/Alaya%20Bridge%20Manual-EN.md) l **[CN](#)**
 
 
 ## 简介
