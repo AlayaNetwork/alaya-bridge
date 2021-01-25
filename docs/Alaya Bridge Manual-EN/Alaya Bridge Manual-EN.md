@@ -4,7 +4,7 @@
 
 ## Brief Introduction
 
-<img src="Alaya Bridge Manual-EN.assets/1.png" alt="img" style="zoom: 50%;" /> 
+<img src="./Alaya Bridge Manual-EN.assets/1.png" alt="img" style="zoom: 50%;" /> 
 
 The Alaya cross-chain assets system is a bridge for cross-chain intercommunication between Alaya assets and Ethereum assets. Users are allowed to convert Ethereum assets (including ETH and ERC20 tokens) into Alaya's ARC20 standard tokens according to the ratio of 1:1 to take advantage of Alaya's superior performance and lower cost over Ethereum to participate in distributed applications. In the future, we will continue to update the Alaya cross-chain assets system, so that more public chains can proceed with cross-chain assets intercommunication with Alaya safely, low-costly, efficiently. 
 
